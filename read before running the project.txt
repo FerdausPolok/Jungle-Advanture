@@ -1,0 +1,6 @@
+Python pacakges you need to install on your pc to run the project and their commands (for cmd- windows):
+
+1. Speech Recognition : pip install SpeechRecognition
+2. Google Text Speech : pip install gTTS
+3. Play SOund         : pip install playsound
+4. Py Audio           : pip install pyaudio
